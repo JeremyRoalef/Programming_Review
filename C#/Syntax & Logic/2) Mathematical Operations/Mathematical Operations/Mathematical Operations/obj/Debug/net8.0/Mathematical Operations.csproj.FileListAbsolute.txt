@@ -1,0 +1,14 @@
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\bin\Debug\net8.0\Mathematical Operations.exe
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\bin\Debug\net8.0\Mathematical Operations.deps.json
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\bin\Debug\net8.0\Mathematical Operations.runtimeconfig.json
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\bin\Debug\net8.0\Mathematical Operations.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\bin\Debug\net8.0\Mathematical Operations.pdb
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\obj\Debug\net8.0\Mathematical Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\obj\Debug\net8.0\Mathematical Operations.AssemblyInfoInputs.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\obj\Debug\net8.0\Mathematical Operations.AssemblyInfo.cs
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\obj\Debug\net8.0\Mathematical Operations.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\obj\Debug\net8.0\Mathematical Operations.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\obj\Debug\net8.0\refint\Mathematical Operations.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\obj\Debug\net8.0\Mathematical Operations.pdb
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\obj\Debug\net8.0\Mathematical Operations.genruntimeconfig.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Mathematical Operations\Mathematical Operations\Mathematical Operations\obj\Debug\net8.0\ref\Mathematical Operations.dll

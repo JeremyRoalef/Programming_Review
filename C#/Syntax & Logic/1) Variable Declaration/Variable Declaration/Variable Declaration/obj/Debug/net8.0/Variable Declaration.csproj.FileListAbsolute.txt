@@ -1,0 +1,14 @@
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\obj\Debug\net8.0\Variable Declaration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\obj\Debug\net8.0\Variable Declaration.AssemblyInfoInputs.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\obj\Debug\net8.0\Variable Declaration.AssemblyInfo.cs
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\obj\Debug\net8.0\Variable Declaration.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\bin\Debug\net8.0\Variable Declaration.exe
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\bin\Debug\net8.0\Variable Declaration.deps.json
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\bin\Debug\net8.0\Variable Declaration.runtimeconfig.json
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\bin\Debug\net8.0\Variable Declaration.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\bin\Debug\net8.0\Variable Declaration.pdb
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\obj\Debug\net8.0\Variable Declaration.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\obj\Debug\net8.0\refint\Variable Declaration.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\obj\Debug\net8.0\Variable Declaration.pdb
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\obj\Debug\net8.0\Variable Declaration.genruntimeconfig.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Variable Declaration\Variable Declaration\Variable Declaration\obj\Debug\net8.0\ref\Variable Declaration.dll

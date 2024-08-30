@@ -1,0 +1,14 @@
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\bin\Debug\net8.0\Data Conversion.exe
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\bin\Debug\net8.0\Data Conversion.deps.json
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\bin\Debug\net8.0\Data Conversion.runtimeconfig.json
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\bin\Debug\net8.0\Data Conversion.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\bin\Debug\net8.0\Data Conversion.pdb
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\obj\Debug\net8.0\Data Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\obj\Debug\net8.0\Data Conversion.AssemblyInfoInputs.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\obj\Debug\net8.0\Data Conversion.AssemblyInfo.cs
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\obj\Debug\net8.0\Data Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\obj\Debug\net8.0\Data Conversion.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\obj\Debug\net8.0\refint\Data Conversion.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\obj\Debug\net8.0\Data Conversion.pdb
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\obj\Debug\net8.0\Data Conversion.genruntimeconfig.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Data Conversion\Data Conversion\Data Conversion\obj\Debug\net8.0\ref\Data Conversion.dll

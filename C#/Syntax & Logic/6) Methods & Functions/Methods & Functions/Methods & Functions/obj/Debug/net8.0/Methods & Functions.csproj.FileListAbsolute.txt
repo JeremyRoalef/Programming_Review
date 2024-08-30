@@ -1,0 +1,14 @@
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\bin\Debug\net8.0\Methods & Functions.exe
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\bin\Debug\net8.0\Methods & Functions.deps.json
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\bin\Debug\net8.0\Methods & Functions.runtimeconfig.json
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\bin\Debug\net8.0\Methods & Functions.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\bin\Debug\net8.0\Methods & Functions.pdb
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\obj\Debug\net8.0\Methods & Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\obj\Debug\net8.0\Methods & Functions.AssemblyInfoInputs.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\obj\Debug\net8.0\Methods & Functions.AssemblyInfo.cs
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\obj\Debug\net8.0\Methods & Functions.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\obj\Debug\net8.0\Methods & Functions.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\obj\Debug\net8.0\refint\Methods & Functions.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\obj\Debug\net8.0\Methods & Functions.pdb
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\obj\Debug\net8.0\Methods & Functions.genruntimeconfig.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Methods & Functions\Methods & Functions\Methods & Functions\obj\Debug\net8.0\ref\Methods & Functions.dll

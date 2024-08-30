@@ -1,0 +1,14 @@
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\bin\Debug\net8.0\Decision Structures.exe
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\bin\Debug\net8.0\Decision Structures.deps.json
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\bin\Debug\net8.0\Decision Structures.runtimeconfig.json
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\bin\Debug\net8.0\Decision Structures.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\bin\Debug\net8.0\Decision Structures.pdb
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\obj\Debug\net8.0\Decision Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\obj\Debug\net8.0\Decision Structures.AssemblyInfoInputs.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\obj\Debug\net8.0\Decision Structures.AssemblyInfo.cs
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\obj\Debug\net8.0\Decision Structures.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\obj\Debug\net8.0\Decision Structures.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\obj\Debug\net8.0\refint\Decision Structures.dll
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\obj\Debug\net8.0\Decision Structures.pdb
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\obj\Debug\net8.0\Decision Structures.genruntimeconfig.cache
+C:\Users\Jeremy\OneDrive\Desktop\Programming Review\C#\Syntax & Logic\Decision Structures\Decision Structures\Decision Structures\obj\Debug\net8.0\ref\Decision Structures.dll

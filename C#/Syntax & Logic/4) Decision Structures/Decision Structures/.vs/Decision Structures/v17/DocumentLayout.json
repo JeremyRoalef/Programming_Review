@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeremy\\OneDrive\\Desktop\\Programming Review\\C#\\Syntax \u0026 Logic\\Decision Structures\\Decision Structures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC20FAC-38BD-4A2F-966B-44933B03BB38}|Decision Structures\\Decision Structures.csproj|c:\\users\\jeremy\\onedrive\\desktop\\programming review\\c#\\syntax \u0026 logic\\decision structures\\decision structures\\decision structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC20FAC-38BD-4A2F-966B-44933B03BB38}|Decision Structures\\Decision Structures.csproj|solutionrelative:decision structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\OneDrive\\Desktop\\Programming Review\\C#\\Syntax \u0026 Logic\\Decision Structures\\Decision Structures\\Decision Structures\\Program.cs",
+              "RelativeDocumentMoniker": "Decision Structures\\Program.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\OneDrive\\Desktop\\Programming Review\\C#\\Syntax \u0026 Logic\\Decision Structures\\Decision Structures\\Decision Structures\\Program.cs",
+              "RelativeToolTip": "Decision Structures\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:10:55.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
