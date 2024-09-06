@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--DO NOT TOUCH!-->
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<!--
+The VBox below has many important parts to it.
+The most important part of the VBox is the fx:controller
+The fx:controller accepts a string that leads to the controller/java class that will work with the GUI
+Syntax: fx:controller="com.example.PROJECTNAME.CLASSNAME"
+
+The prefHeight and prefWidth sets the preferred width and height of the scene.
+These numbers can be changed as needed.
+
+Any controls added to the scene will show up in the VBox. The VBox
+is a container that holds all of controls in a vertical formation
+(See Scene Builder for example)
+-->
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="250.0" prefWidth="150.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javafxgui.MyFirstSceneViewController">
+    <!--
+    The children below hold the controls, shapes, etc. that appear in the VBox. They will have to be connected to the java
+    class to be able to perform functionalities
+    -->
+   <children>
+      <Button fx:id="buttonPressMe" mnemonicParsing="false" onAction="#onButtonPressMeClick" prefHeight="20.0" prefWidth="100.0" text="Press Me" textAlignment="CENTER" />
+      <Label fx:id="labelText" />
+      <Button fx:id="buttonGoToScene1" mnemonicParsing="false" onAction="#onButtonGoToScene1Click" prefHeight="20.0" prefWidth="100.0" text="Go to scene 1" />
+      <Button fx:id="buttonGoToScene2" mnemonicParsing="false" onAction="#onButtonGoToScene2Click" prefHeight="20.0" prefWidth="100.0" text="Go to scene 2" />
+   </children>
+</VBox>

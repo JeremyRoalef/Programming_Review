@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<!--
+This scene will be used to create class objects from user input.
+The class that will be used will be Person
+-->
+
+<AnchorPane prefHeight="280.0" prefWidth="260.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javafxgui.Scene2ViewController">
+   <children>
+      <Button layoutX="25.0" layoutY="160.0" mnemonicParsing="false" onAction="#onButtonSubmitClick" prefHeight="25.0" prefWidth="197.0" text="Submit" />
+      <Button fx:id="buttonReturnToMainScene" layoutX="62.0" layoutY="14.0" mnemonicParsing="false" onAction="#onButtonReturnToMainSceneClick" text="Return to Main Screen" />
+      <Label layoutX="32.0" layoutY="66.0" text="Enter ID" />
+      <Label layoutX="23.0" layoutY="98.0" text="Enter Age" />
+      <Label layoutX="14.0" layoutY="129.0" text="Enter Name" />
+      <TextField fx:id="textFieldPersonID" layoutX="86.0" layoutY="62.0" />
+      <TextField fx:id="textFieldPersonAge" layoutX="86.0" layoutY="94.0" />
+      <TextField fx:id="textFieldPersonName" layoutX="85.0" layoutY="125.0" />
+      <Label fx:id="labelOutput" layoutX="14.0" layoutY="199.0" prefHeight="17.0" prefWidth="232.0" textAlignment="CENTER" />
+      <Label fx:id="labelIdOutput" layoutX="9.0" layoutY="225.0" prefHeight="17.0" prefWidth="243.0" />
+      <Label fx:id="labelNameOutput" layoutX="9.0" layoutY="242.0" prefHeight="17.0" prefWidth="243.0" />
+      <Label fx:id="labelAgeOutput" layoutX="9.0" layoutY="259.0" prefHeight="17.0" prefWidth="232.0" />
+   </children>
+</AnchorPane>

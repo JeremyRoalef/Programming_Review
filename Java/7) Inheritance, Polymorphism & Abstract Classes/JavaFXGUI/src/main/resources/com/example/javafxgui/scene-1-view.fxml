@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<!--
+The AnchorPane allows you to place controls more freely than the VBox container.
+This scene will provide a breakdown of the many controls you can use in a scene
+-->
+
+<AnchorPane prefHeight="260.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javafxgui.Scene1ViewController">
+   <children>
+      <Button fx:id="buttonReturnToMainScene" alignment="CENTER" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#onButtonReturnToMainSceneClick" text="Return to Main Scene" textAlignment="CENTER" textFill="#3f2bc0" underline="true">
+         <font>
+            <Font name="Comic Sans MS" size="11.0" />
+         </font></Button>
+      <TextField fx:id="textFieldUserNumber" layoutX="430.0" layoutY="47.0" prefHeight="25.0" prefWidth="56.0" />
+      <Button layoutX="390.0" layoutY="82.0" mnemonicParsing="false" onAction="#onButtonSubmitUserInputClick" text="Submit" />
+      <Label fx:id="labelUserInput" layoutX="335.0" layoutY="51.0" text="Enter a number" />
+      <VBox alignment="CENTER_RIGHT" layoutX="285.0" layoutY="119.0" prefHeight="22.0" prefWidth="195.0">
+         <children>
+            <Label fx:id="labelUserNumberOutput">
+               <font>
+                  <Font size="10.0" />
+               </font></Label>
+         </children>
+      </VBox>
+      <ComboBox fx:id="comboBoxItems" layoutX="338.0" layoutY="152.0" prefWidth="150.0" promptText="Choose a Value" />
+      <Button layoutX="375.0" layoutY="188.0" mnemonicParsing="false" onAction="#onButtonSubmitComboBoxClick" text="Submit" />
+      <VBox alignment="CENTER_LEFT" layoutX="292.0" layoutY="222.0" prefHeight="25.0" prefWidth="195.0">
+         <children>
+            <Label fx:id="labelUserComboBoxOutput">
+               <font>
+                  <Font size="10.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+      <CheckBox fx:id="checkBoxOption1" layoutX="14.0" layoutY="86.0" mnemonicParsing="false" text="Option 1" />
+      <CheckBox fx:id="checkBoxOption2" layoutX="89.0" layoutY="86.0" mnemonicParsing="false" text="Option 2" />
+      <CheckBox fx:id="checkBoxOption3" layoutX="167.0" layoutY="86.0" mnemonicParsing="false" text="Option 3" />
+      <Button layoutX="97.0" layoutY="118.0" mnemonicParsing="false" onAction="#onButtonSubmitCheckBoxClick" text="Button" />
+      <VBox alignment="CENTER_LEFT" layoutX="13.0" layoutY="152.0" prefHeight="25.0" prefWidth="219.0">
+         <children>
+            <Label fx:id="labelCheckBoxOutput">
+               <font>
+                  <Font size="10.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
